@@ -4,7 +4,7 @@
 ">
 from India.I am constantly on the lookout for new and innovative ways to use blockchain technology,I love the idea of entrepreneurship in this domain and making a real impact with my work.</h3>
 
-- 🔭 I’m currently working on **Defi projects.**
+- 🔭 I’m currently working on **Defi projects and smart contracts.**
 
 - 👯 I’m looking to collaborate on **any web3 solidity projects.**
 
